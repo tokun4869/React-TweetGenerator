@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+  margin: 1.2em;
+  background-color: #0f0f1f;
+  color: #a0c0f0;
+}
+
+.InputLabel {
+  font-size: 2em;
+  font-weight: bold;
+  height: 2em;
+}
+
+.Preset {
+  height: 5em;
+}
+
+.PresetLabel {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.Mode {
+  height: 5em;
+}
+
+.ModeLabel {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.Time {
+  height: 5em;
+}
+
+.TimeLabel {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.Title {
+  height: 5em;
+}
+
+.TitleLabel {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.Main {
+  height: 6em;
+}
+
+.MainLabel {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.Tag {
+  height: 6em;
+}
+
+.TagLabel {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.OutputLabel {
+  font-size: 2em;
+  font-weight: bold;
+  height: 2em;
+}
+
+input[type="text"] {
+  width: 20em;
+}
+
+textarea {
+  resize: none;
+  width: 20em;
+  height: 3em;
+}
